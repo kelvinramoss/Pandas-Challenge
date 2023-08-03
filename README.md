@@ -26,6 +26,12 @@ _(Overall passing rate of Charter schools is 90.43% and District schools is 53.6
 
 ## How to Install and Run the code
 
+To run the script:
+1. Open **Jupyter Notebook** through terminal
+2. Copy the git link from git repository
+3. Inside the folder PyCitySchools there is the *PyCitySchools.ipynb* file and inside the folder *Resources* there are the CSV files.
+4. Run the script using **Jupyter Notebook** from *PyCitySchools* folder to get the data results. Observation: use *Restart & Run All option* from *Kernel* in *Jupyter Notebook* or run each block of code individually to avoid any error/bugs.
+
 
 ## Credits
 
